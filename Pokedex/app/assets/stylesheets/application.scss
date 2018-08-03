@@ -103,3 +103,17 @@
    text-align: center;
    color: $black;
  }
+
+ul {
+  list-style: none;
+}
+
+ .poke-img {
+   width: 25px;
+   height: 25px;
+ }
+
+ .pokedex {
+   display: flex;
+   flex-direction: row;
+ }
